@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='fdiamlpeoodoigmjkjedcagbllmlmeoe'>
+    <updatecheck codebase='https://trevoralexanderrobey.github.io/webclip-updates/trinc-web-clipper-1.6.2.7.crx' version='1.6.2.7' hash_sha256='f22862b51b43ac3ea1df62b69b15ada01be04fd5527ee85510d73601e8f5b41f' size='4138541'/>
+  </app>
+</gupdate>
